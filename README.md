@@ -61,4 +61,5 @@
 </p>
 
 <br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz&show_icons=true&theme=radical)](https://github.com/guzeradimazz)
 
