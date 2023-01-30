@@ -62,4 +62,4 @@
 
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz&show_icons=true&theme=radical)](https://github.com/guzeradimazz)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz&count_private=true&theme=radical&show_icons=true)
