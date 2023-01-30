@@ -64,6 +64,6 @@
   &nbsp;&nbsp;
 </p>
 
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz)](https://github.com/guzeradimazz/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzeradimazz&show_icons=true&theme=radical)
