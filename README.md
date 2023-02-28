@@ -1,8 +1,9 @@
 <img src="https://media.tenor.com/He2W0AQvZfsAAAAC/hacked-hack.gif" width="100"/>
+
 # Hey, what's up, my name is Dmitry. I'm Frontend and Mobile Developer! 
-- 👀&#160; I’m currently working on several Mobile (React Native) apps
-- 🎓&#160; Also I’m currently learning architecture and code improvement approaches. Moreover I spend a lot of time on learning English
-- 👯&#160; I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-guzerchuk-35b81520b/)
+- 👀 I’m currently working on several Mobile (React Native) apps
+- 🎓 Also I’m currently learning architecture and code improvement approaches. Moreover I spend a lot of time on learning English
+- 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-guzerchuk-35b81520b/)
 
 ### Connect with me:
 
