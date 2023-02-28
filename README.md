@@ -60,8 +60,8 @@
     <img height="30" src="https://sass-scss.ru/assets/img/logos/logo-b6e1ef6e.svg">
   </a>
   &nbsp;&nbsp;
-  <a href="https://ru.wikipedia.org/wiki/API">
-    <img height="30" src="" alt="API" >
+  <a href="https://axios-http.com/ru/">
+    <img height="30" src="https://axios-http.com/assets/logo.svg" >
   </a>
   &nbsp;&nbsp;
   <a href="https://www.postgresql.org">
