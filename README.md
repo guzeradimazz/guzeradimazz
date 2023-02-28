@@ -51,6 +51,9 @@
   <a href="https://reactnative.dev">
     <img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LS4X9NFz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png">
   </a>
+  <a href="https://sass-scss.ru/">
+    <img height="30" src="https://sass-scss.ru/assets/img/logos/logo-b6e1ef6e.svg">
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.postgresql.org">
     <img height="30" src="https://www.postgresql.org/media/img/about/press/elephant.png">
