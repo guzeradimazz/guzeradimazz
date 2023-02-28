@@ -52,6 +52,10 @@
     <img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--LS4X9NFz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png">
   </a>
    &nbsp;&nbsp;
+  <a href="https://docs.swmansion.com/react-native-reanimated/">
+    <img height="30" src="https://user-images.githubusercontent.com/71637814/221989280-44575d34-4c0d-49ad-8ab6-7f8a752d3409.png">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://sass-scss.ru/">
     <img height="30" src="https://sass-scss.ru/assets/img/logos/logo-b6e1ef6e.svg">
   </a>
@@ -66,6 +70,10 @@
   &nbsp;&nbsp;
   <a href="https://tilda.cc/">
     <img height="30" src="https://static.tildacdn.com/tild3331-3166-4339-a463-303634366630/logo___1__5.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ru.wordpress.org/">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png">
   </a>
   &nbsp;&nbsp;
 </p>
